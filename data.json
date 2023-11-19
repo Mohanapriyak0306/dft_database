@@ -1,0 +1,275 @@
+db.recipe.insert(
+[
+    {
+        "recipe_id": 1,
+        "recipetype": "Bread",
+        "recipename": "Bread",
+        "recipe_image": "https://i.ibb.co/DGFVPGd/Bread-Category-Image .jpg"
+    },
+    {
+        "recipe_id": 2,
+        "recipetype": "Bread",
+        "recipename": "Puff Pastry",
+        "recipe_image": "https://i.ibb.co/GnJJzqg/15-Minute-Puff-Pastry-h .jpg"        
+    },
+    {
+        "recipe_id": 3,
+        "recipetype": "Cookies and Bars",
+        "recipename": "2 Ingredient Peanut Butter Cookies",
+        "recipe_image": "https://i.ibb.co/V92dJtq/2-ingredient-peanut-butter-cookies-3 .jpg"
+    },
+    {
+        "recipe_id": 4,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Almond Flour Peanut Butter Cookies",
+        "recipe_image": "https://i.ibb.co/yY8rG1Q/Almond-Flour-Peanut-Butter-Cookies-4 .jpg"
+    },
+    {
+        "recipe_id": 5,
+        "recipetype": "Drinks for Two",
+        "recipename": "Banana Milkshake",
+        "recipe_image": "https://i.ibb.co/3h7MRRV/Banana-Milkshake-8 .jpg"
+    },
+    {
+        "recipe_id": 6,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "Blackberry Cupcakes",
+        "recipe_image": "https://i.ibb.co/GWf7cGR/blackberry-cupcakes-13 .jpg"
+    },
+    {
+        "recipe_id": 7,
+        "recipetype": "Breakfast",
+        "recipename": "chocolate banana muffins",
+        "recipe_image": "https://i.ibb.co/jV3YttK/chocolate-banana-muffins-6 .jpg"
+    },
+    {
+        "recipe_id": 8,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Chocolate chip cookie bars",
+        "recipe_image": "https://i.ibb.co/rtL28yx/chocolate-chip-cookie-bars-360x480.jpg"
+    },
+    {
+        "recipe_id": 9,
+        "recipetype": "Cookies and Bars",
+        "recipename": "chocolate chip cookies without eggs",
+        "recipe_image": "https://i.ibb.co/NWCKCdQ/chocolate-chip-cookies-without-eggs .jpg"
+    },
+    {
+        "recipe_id": 10,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Chocolate Chipper Cookies",
+        "recipe_image": "https://i.ibb.co/zH3w6xc/Chocolate-Chippers-Cookies-6 .jpg"
+    },
+    {
+        "recipe_id": 11,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "chocolate mousse",
+        "recipe_image": "https://i.ibb.co/ys9zWCm/Chocolate-Mousse-8 .jpg"
+    },
+    {
+        "recipe_id": 12,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "Chocolate Shortbread",
+        "recipe_image": "https://i.ibb.co/D5znNyc/chocolate-shortbread-1.jpg"
+    },
+    {
+        "recipe_id": 13,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Healthy Chocolate Chip Cookies with Coconut Oil",
+        "recipe_image": "https://i.ibb.co/5s9PzZG/Coconut-Oil-Chocolate-Chip-Cookies-2-1 .jpg"
+    },
+    {
+        "recipe_id": 14,
+        "recipetype": "Bread",
+        "recipename": "Crepes for Two",
+        "recipe_image": "https://i.ibb.co/72v5nS5/crepes-for-two .jpg"
+    },
+    {
+        "recipe_id": 15,
+        "recipetype": "Crockpot Recipes for Two",
+        "recipename": "Crockpot Beef and Vegetable Soup",
+        "recipe_image": "https://i.ibb.co/Tvp39gd/crockpot-beef-and-vegetable-soup-5 .jpg" 
+    },
+    {
+        "recipe_id": 16,
+        "recipetype": " Crockpot Recipes for Two",
+        "recipename": "Crockpot Pork Tenderloin",
+        "recipe_image": "https://i.ibb.co/HKcFFvj/crock-pot-pork-tenderloin-3 .jpg"
+    },
+    {
+        "recipe_id": 17,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Florentine cookies",
+        "recipe_image": "https://i.ibb.co/RjkjW6n/Florentine-Cookies-6 .jpg" 
+    },
+    {
+        "recipe_id": 18,
+        "recipetype": " Cookies and Bars",
+        "recipename": "Flourless Chocolate Cookie Recipe",
+        "recipe_image": "https://i.ibb.co/J5DxqQ8/flourless-chocolate-cookies-3-1 .jpg"
+    },
+    {
+        "recipe_id": 19,
+        "recipetype": " No Bake",
+        "recipename": "Fruit Dip",
+        "recipe_image": "https://i.ibb.co/P4Pn808/Healthy-Fruit-Dip-5 .jpg" 
+    },
+    {
+        "recipe_id": 20,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Gooey Butter Cake Cookies",
+        "recipe_image": "https://i.ibb.co/YtNWfCg/homeamde-gooey-butter-cake-13-600x800.jpg"
+    },
+    {
+        "recipe_id": 21,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Homemade Twix Bars",
+        "recipe_image": "https://i.ibb.co/S7WPxJh/Homemade-Twix-Bars .jpg"
+    },
+    {
+        "recipe_id": 22,
+        "recipetype": "Dinner Recipes for two",
+        "recipename": "Honey Garlic Chicken Thighs",
+        "recipe_image": "https://i.ibb.co/W3cKdhY/Honey-Garlic-Chicken-Thighs-5-1 .jpg"
+    },
+    {
+        "recipe_id": 23,
+        "recipetype": "Dinner Recipes for two",
+        "recipename": "Instant Pot Chicken and Dumplings",
+        "recipe_image": "https://i.ibb.co/TTWJZ1v/instant-pot-chicken-and-dumplings-for-two-5 .jpg"
+    },
+    {
+        "recipe_id": 24,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Lemon Shortbread Cookies",
+        "recipe_image": "https://i.ibb.co/KD4qQpy/Lemon-Shortbread-Cookies-12 .jpg"
+    },
+    {
+        "recipe_id": 25,
+        "recipetype": "Freezer Meals for Two",
+        "recipename": "Freezer Recipe for Make Ahead Mashed Potatoes",
+        "recipe_image": "https://i.ibb.co/7j02Ld5/make-ahead-mashed-potatoes-4 .jpg"
+    },
+    {
+        "recipe_id": 26,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "Small Cheesecake Recipe",
+        "recipe_image": "https://i.ibb.co/Snt93sp/Mini-Cheesecakes-4 .jpg"
+    },
+    {
+        "recipe_id": 27,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "Mini Chocolate Cake",
+        "recipe_image": "https://i.ibb.co/ByMBdtJ/Mini-Chocolate-Cake-2 .jpg"
+    },
+    {
+        "recipe_id": 28,
+        "recipetype": "Fancy",
+        "recipename": "Mini Lemon Cheesecakes",
+        "recipe_image": "https://i.ibb.co/C1kzc3s/Mini-Lemon-Cheesecakes-3 .jpg"
+    },
+    {
+        "recipe_id": 29,
+        "recipetype": "Fancy",
+        "recipename": "mini-strawberry-cheesecakes",
+        "recipe_image": "https://i.ibb.co/9WcL2xg/mini-strawberry-cheesecakes-7 .jpg"
+    },
+    {
+        "recipe_id": 30,
+        "recipetype": " Small Cake Recipes to make 6 Inch cakes",
+        "recipename": "Mini Vanilla Cake",
+        "recipe_image": "https://i.ibb.co/D7bxr4j/mini-vanilla-cake-recipe .jpg"
+    },
+    {
+        "recipe_id": 31,
+        "recipetype": "No Bake",
+        "recipename": "No Bake Chocolate Cheesecake",
+        "recipe_image": "https://i.ibb.co/BnXDrXN/no-bake-chocolate-cheesecake-8 .jpg"
+    },
+    {
+        "recipe_id": 32,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "Nutella Cupcakes",
+        "recipe_image": "https://i.ibb.co/HDdc3rL/Nutella-Cupcakes-14 .jpg"
+    },
+    {
+        "recipe_id": 33,
+        "recipetype": "Brownies",
+        "recipename": "Oreo Brownie Bars",
+        "recipe_image": "https://i.ibb.co/xGSFmGZ/oreo-brownies-360x480.jpg"
+    },
+    {
+        "recipe_id": 34,
+        "recipetype": "Small Cake Recipes to make 6 Inch cakes",
+        "recipename": "Oreo Cheesecake Cupcakes",
+        "recipe_image": "https://i.ibb.co/gM4kPF8/Oreo-Cheesecake-Cupcakes-6 .jpg"
+    },
+    {
+        "recipe_id": 35,
+        "recipetype": "Breakfast",
+        "recipename": "Pancakes for Two",
+        "recipe_image": "https://i.ibb.co/fkJRNs8/pancakes-for-two-6 .jpg"
+    },
+    {
+        "recipe_id": 36,
+        "recipetype": "Brownies",
+        "recipename": "Small Batch Recipe for Brownies with Cocoa",
+        "recipe_image": "https://i.ibb.co/NVbL4hS/Small-batch-Brownies-for-Two-5-360x480.jpg"
+    },
+    {
+        "recipe_id": 37,
+        "recipetype": "Crockpot Recipes for Two",
+        "recipename": "Slow Cooker Pulled Pork Tenderloin",
+        "recipe_image": "https://i.ibb.co/q9yCDWw/slow-cooker-pulled-pork-tenderloin-4 .jpg"
+    },
+    {
+        "recipe_id": 38,
+        "recipetype": "Crockpot Recipes for Two",
+        "recipename": "Slow Cooker Taco Soup",
+        "recipe_image": "https://i.ibb.co/NK3jVQC/Slow-Cooker-Taco-Soup-6 .jpg"
+    },
+    {
+        "recipe_id": 39,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Small batch chocolate chip cookies",
+        "recipe_image": "https://i.ibb.co/4YPG8QZ/small-batch-chocolate-chip-cookies-1 .jpg" 
+    },
+    {
+        "recipe_id": 40,
+        "recipetype": "Small Cake Recipes to make 6 Inch cakes",
+        "recipename": "Strawberry Cream Cheese Frosting",
+        "recipe_image": "https://i.ibb.co/TRyvHWq/strawberry-cream-cheese-frosting .jpg"
+    },
+    {
+        "recipe_id": 41,
+        "recipetype": "Gluten Free",
+        "recipename": "Sweet Potato Casserole with Marshmallows",
+        "recipe_image":"https://i.ibb.co/1bNhKC7/Sweet-Potato-Casserole-with-Marshmallows-20 .jpg"
+    },
+    {
+        "recipe_id": 42,
+        "recipetype": "Cookies and Bars",
+        "recipename": "Tea Cakes",
+        "recipe_image": "https://i.ibb.co/88RxP9Y/Tea-Cakes-6 .jpg"
+    },
+    {
+        "recipe_id": 43,
+        "recipetype": "Dinner Recipes for two",
+        "recipename": "Zuppa Toscana",
+        "recipe_image": "https://i.ibb.co/TvHwHjT/zuppa-toscana-3 .jpg"
+    },
+    {
+        "recipe_id": 44,
+        "recipetype": "Cookies and Bars",
+        "recipename": "White Chocolate Chip Cookies ",
+        "recipe_image": "https://i.ibb.co/nggmzfx/White-Chocolate-Chip-Cookies .jpg"
+    },
+    {
+        "recipe_id": 45,
+        "recipetype": "Chocolate Desserts for Two",
+        "recipename": "Chocolate Texas Sheet Cake Recipe",
+        "recipe_image": "https://i.ibb.co/FHwdwxN/texas-chocolate-sheet-cake-recipe.jpg"
+    }
+
+
+])    
